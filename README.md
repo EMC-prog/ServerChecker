@@ -24,7 +24,7 @@ pip3 install paramiko
 Then, you will need to download the package:
 
 ```
-git clone 
+git clone https://github.com/EMC-prog/ServerChecker.git
 ```
 
 ## First steps
