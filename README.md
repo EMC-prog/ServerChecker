@@ -31,7 +31,8 @@ git clone https://github.com/EMC-prog/ServerChecker.git
 
 When you start the program, it will tell you that you haven't entered the program yet. You have to make some modifications in order to work well.
 
-The fist thing you will have to put is the server ip and port for connecting to ssh. Then put the username that you will want to connect with. The password will be asked on the spot to avoid people 
+The fist thing you will have to put is the server ip and port for connecting to ssh. Then put the username that you will want to connect with. The password will be asked on the spot to avoid people for being able to get your password with the info file.
+
 ```
 {
 	"ip":"100.10.01.10", 
