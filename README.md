@@ -57,7 +57,7 @@ python3 serverchecker.py
 The software comes with some commands already, like:
 
 - Shutdown the system (You can choose between instantly and in a minute)
-- Reboot the sistem
+- Reboot the system
 - Custom command (You can make it from the info.txt file)
 
 ## License
