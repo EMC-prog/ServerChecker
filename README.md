@@ -1,6 +1,6 @@
 # ServerChecker
 
-A simple linux server controller made in Python.
+A simple linux server controller made in Python. **The project will remain on hold until newer advice due to it being useless.**
 
 ## Requirements
 
