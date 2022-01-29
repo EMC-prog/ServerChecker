@@ -2,10 +2,9 @@
 
 A simple linux server controller made in Python.
 
-## Why there isn't any python programs?
+## Requirements
 
-I have the program on a computer witch right now isn't working well. I'll have to recover the program when I can.
-
+It is better if the server is made with debian linux. If not, you can change the commands very easily.
 ## How does it work? 
 
 The ServerChecker uses a Python module called paramiko, witch lets the comuter access a server via ssh. The data of the server is got via a text file. The password is asked on the spot.
