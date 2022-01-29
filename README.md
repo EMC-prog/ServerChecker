@@ -64,6 +64,11 @@ The software comes with some commands already, like:
 ## Custom command feature
 You can send a custom command into the server via ServerChecker. You can send it from the info.txt file, in the section "custom_command".
 
+## Changelog
+You can find it [here](CHANGELOG.md).
+
+
+
 ## License
 
 This program is under the MIT license.
