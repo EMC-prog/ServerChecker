@@ -1,3 +1,7 @@
+# Original by EMC-prog
+# UNDER THE MIT LICENSE
+
+
 import paramiko
 import time
 import os
@@ -50,6 +54,8 @@ host = (jdfp["ip"])
 port = (jdfp["port"])
 username = (jdfp["user"])
 password = getpass("Password for user " + username + ": ")
+
+# Check the number selected:
 
 if option == "1":
     command = "echo wip"
