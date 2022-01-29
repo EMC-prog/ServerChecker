@@ -41,7 +41,7 @@ os.system('cls' if os.name == 'nt' else 'clear')
 
 #Initial menu
 print("Options avalible for the server: ")
-print("1) Check server temperature")
+print("1) Check server temperature (NOT WORKING)")
 print("2) Reboot the server")
 print("3) Shut down the server (in 1 minute)")
 print("4) Shut down the server (instantaniously)")
