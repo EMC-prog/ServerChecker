@@ -36,9 +36,9 @@ The fist thing you will have to put is the server ip and port for connecting to 
 ```
 {
 	"ip":"100.10.01.10", 
-	""port":"22", 
-    "user":"", 
-
+	"port":"22", 
+        "user":"", 
+        "custom_command":""
 }
 ```
 
@@ -59,7 +59,10 @@ The software comes with some commands already, like:
 
 - Shutdown the system (You can choose between instantly and in a minute)
 - Reboot the system
-- Custom command (You can make it from the info.txt file)
+- Custom command
+
+## Custom command feature
+You can send a custom command into the server via ServerChecker. You can send it from the info.txt file, in the section "custom_command".
 
 ## License
 
